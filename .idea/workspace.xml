@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bdeb49-c288-4de2-9ed5-e5f24dc3cf66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/test_alph/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_alph.iml" beforeDir="false" />
+    <list default="true" id="15573c19-83ce-4925-8722-4d32dfbd17e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +16,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2fyASGDt8Not56fLUXLCD7f1hct" />
+  <component name="ProjectId" id="2fyBeA4jgUBjGhZlVU8NBg7S5jN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,8 +29,11 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,12 +49,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27bdeb49-c288-4de2-9ed5-e5f24dc3cf66" name="Changes" comment="" />
-      <created>1714762943438</created>
+      <changelist id="15573c19-83ce-4925-8722-4d32dfbd17e2" name="Changes" comment="" />
+      <created>1714763532015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1714762943438</updated>
-      <workItem from="1714762948992" duration="177000" />
+      <updated>1714763532015</updated>
+      <workItem from="1714763536284" duration="249000" />
     </task>
     <servers />
   </component>
